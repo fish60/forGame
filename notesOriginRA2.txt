@@ -1,0 +1,17 @@
+﻿Origin
+
+紅警 2 (& 尤里的復仇)
+
+改善 lag
+修改 ra2(md).ini 的 [Video] 下加上：
+VideoBackBuffer=no
+AllowVRAMSidebar=no
+
+用 1024*768 來玩
+
+
+
+
+
+
+
