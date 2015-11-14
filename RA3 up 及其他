@@ -1,0 +1,203 @@
+http://www.keygenguru.com/sn/command___conquer_red_alert_3_uprising.html
+ra3 upKey: P58Q-Q2GH-QQ2J-8AVZ-EDBD 能裝但會重問
+P58QQ2GHQQ2J8AVZEDBD
+
+https://www.youtube.com/watch?v=BqarUqvkqHs 能裝但會重問
+JQM5-9T46-8ZQY-8K37-KTCC
+8L8Q-H9BK-9A7X-WPY5-9JBQ
+
+需要 crack 的樣子...
+ra3ep1_1.0.game
+http://yun.baidu.com/wap/shareview?&shareid=1802926675&uk=773289152&dir=%2F%E8%BD%AF%E4%BB%B6%2F%E6%B8%B8%E6%88%8F%2FRA3uprising%2FData&page=1&num=20&fsid=597901516725884&third=0&adapt=pc&fr=ftw
+
+HHZZKFCDH8HBZHWH9EY7 >>>
+
+
+MOQK-KYXY-IRXP-FTWT              http://www.nathanratliff.com/robotlearning/publications.html
+1 TJSY 2 8HTK 3 86D8 4 I41H 5 2724                    AGBBPEJJPN rabby.es.gmail.com?
+6 XWT5 7 RDNS 8 5150 9 G19Y 10 9144 aaaa0000   ra3:HHZZ-KFCD-H8HB-ZHWH-9EY7
+11 06D3 12 EMZ6 13 U28D 14 44H4 15 THG0        emp:036821-844152-703274-5619
+16 OSJY 17 A3O5 18 5605 19 TMH8 20 T72S        
+21 ZGE5 22 06X0 23 LZ3F 24 XT43 25 8379      
+26 Z9WK 27 5U2P 28 170J 29 42FL 30 1W53 
+fish601013@omg.com.tw jim39885@gmail.com jim39885@yahoo.com.tw jim39885@hotmail.com 
+r96044@csie.ntu.edu.tw b92060@csie.ntu.edu.tw fish60@robotics.csie.ntu.edu.tw    
+f96922044@ntu.edu.tw 
+助教帳號： ta_981csit02
+密碼： dae087
+http://140.112.30.194/~skyrain/?C=M;O=D
+C:\Documents and Settings\fish60\Local Settings\Temporary Internet Files\Content.IE5\BG0L9E83
+acsignicon.dll
+
+23983                      Lewis, Mad Hatter, Rabbit    LVFZ-DFHC-HUZP-HUOG   XWFI-CYEQ-YXRC-CPLD 
+WFCD-GLRD-IUSD-SKQX   FQSS-FJGO-MBFQ-SFVN 
+Jefflalala2268
+F126279878
+疾風劍士
+Jeff
+1       ZY22    2       6017    3       A4M3    4       V9R9    5       7PG1
+6       G489    7       0299    8       5Z1Q    9       O7AB    10      7230
+11      AR3T    12      2J0D    13      34YV    14      5P06    15      LN9P
+16      61ED    17      MZ4O    18      735I    19      83YH    20      3909
+21      86M7    22      ILBW    23      VOW9    24      9GK2    25      Z741
+26      L91O    27      B7G4    28      49ZH    29      TPFU    30      68RJ
+
+ohohoh3539
+0952493789
+ 
+IP address  140.112.90.216/223
+mask  255.255.255.0 
+Default  Gate 140.112.(90.254)      30.254
+DNS Server  140.112.254.4
+
+
+Clopper road 
+Allspice Dr
+Seneca creek greenway trail
+
+Cuei-hua Rd
+Zuo-ying Rd * 2
+Gao-tie Rd
+TRIQ L-IMQABA = Triq l-Imqaba --> malta
+
+USA: go to Texas, Eisenhower State Park, Lake Texoma
+use
+1. search: Farm-to-Market Road 84
+2. Juanita Dr
+3. find: United States Highway 75 *** Texas, USA ? 3,648,000
+         State Highway 91         **
+
+//United States Highway 75 Oklahoma, USA
+
+Interstate Highway 94
+
+Highway70 Arkansas, USA (North Little Rock) 往左上找 2
+
+N Highway 75 7,177,000
+Highway 75 Tennessee, USA !!! 往左邊找 1
+
+State Highway 19 Texas, USA (12) 6,91xxxx
+
+35-2000/2106
+Ki Pl
+Ko Pl
+Nanu Pl
+Nanu St
+Oha Pl
+Oha St
+
+
+
+Service:
+
+1. ssh IP:140.112.90.213, port 4407
+    login ID: tac407, password:c2010ta
+
+2. FTP: same as above.
+
+3. phpMyAdmin (mySQL database)
+    site: http://palcourse.csie.ntu.edu.tw/phpMyAdmin/
+    login ID: C, password:tac2008    => for judgegirl database
+    login ID: Ctest, password:tac2008     =>for testgirl database
+
+4. website
+    Judgegril => http://palcourse.csie.ntu.edu.tw/judgegirl
+    testgril    => http://palcourse.csie.ntu.edu.tw/testgirl
+
+5. Judgegirl account on gmail
+   ID : judgegirl.SYS @ gmail.com
+   passwd:judge2008
+   Remember to keep the e-mail on this account, you can add and download the e-mails from this account.
+
+
+
+--------------------
+backup db:
+
+ID: course
+password: xxxxxxxxxxx, need - and #
+db in /var/lib/mysql/C
+need use: sudo su
+
+in /var/lib/mysql/C
+cp *.* /media/Course/CProgram/backup/C2010db/
+
+in /media/Course/CProgram/backup/C2010db/
+chmod 700 C2010db
+chown -R tac407:mysql C2010db
+
+
+maybe backup by hand?
+--------------------
+
+
+
+
+--------------------
+change to the right year:
+in /media/Course/CProgram/judgegirl/
+
+for webpage:
+vim index.htm
+
+for inner webpages and other settings:
+vim config.php
+--------------------
+
+
+
+
+--------------------
+mailing account/password:
+add id list from ceiba in /media/Course/CProgram/judgegirl/tools
+
+check the old users by hand now:
+delete some old users in testgirl database in case of the same id
+
+vim adduserDual.pl
+change some words like Tas' e-mails, course name ......
+
+usage (mail is sent to xxx@ntu.edu.tw):
+perl adduserDual.pl idlist_test.txt
+
+--------------------
+
+
+
+--------------------
+create problems:
+in http://palcourse.csie.ntu.edu.tw/phpMyAdmin/
+
+available:
+0: can see, can't submit, before announcement
+1: can see, can submit, after announcement, before deadline
+2: after the deadline, can see, can check the answer and inputs/outputs
+
+check the problemset:
+homework, quizN, midterm, midterm2, final, ......
+
+--------------------
+
+
+--------------------
+backup and shot down
+
+need use: sudo su
+
+media/Course/SystemSetting
+
+sh dailybackupcmd.sh
+sh .....sh
+--------------------
+
+
+--------------------
+open lalagirl for some testing......
+http://palcourse.csie.ntu.edu.tw/judgegirl/haha
+
+perl judge.pl
+
+--------------------
+
+
+
